@@ -50,7 +50,7 @@ When power or water fails in a large gated colony, residents can't tell whether 
 
 ## Team
 
-University of Central Punjab (UCP), Lahore, Fall 2026
+University of Central Punjab (UCP)
 
 - Aqif Ahmed (Scrum Master)
 - Danish Hamid
